@@ -72,3 +72,8 @@ Visualized the prediction vs actual values to assess model accuracy.
 6.Result Interpretation:
 
 The model was able to identify trends and provide reasonably accurate predictions of house prices based on the provided features.
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6c044e6a-aaa6-4403-94c0-df5a42d21432)
